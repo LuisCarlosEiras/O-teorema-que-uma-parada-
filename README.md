@@ -1,6 +1,9 @@
 ### Gödel, o teorema que é uma parada!
 
 
+from IPython.display import Image
+Image('./godeleinstein.jpg')
+
 Um computador imaginário processa o teorema de Gödel
 
 **Luís Carlos Silva Eiras**
