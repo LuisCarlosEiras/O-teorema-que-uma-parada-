@@ -1,5 +1,6 @@
 ### Gödel, o teorema que é uma parada!
 
+
 Um computador imaginário processa o teorema de Gödel
 
 **Luís Carlos Silva Eiras**
